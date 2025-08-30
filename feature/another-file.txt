@@ -1,1 +1,3 @@
 Just on other file created in feature 1 branch.
+
+this file was modified locally
