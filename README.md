@@ -6,4 +6,4 @@ this line was modified manually during conflict resoluation
 new lines were added locally
 
 
-edit in the feature-2 branch 
+edit in the feature-2 branch.  
